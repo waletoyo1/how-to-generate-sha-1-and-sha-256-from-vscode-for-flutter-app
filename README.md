@@ -2,4 +2,4 @@
 
 
 On the vscode terminal, enter cd android
-then run this command :   .\gradlew signingReport
+then run   .\gradlew signingReport
