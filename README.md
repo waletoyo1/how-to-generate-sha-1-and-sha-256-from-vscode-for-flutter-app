@@ -9,3 +9,6 @@ Variable name: JAVA_HOME
 Variable value : C:\Program Files\Android\Android Studio\jre
 You need to have android studio on your PC to work.
 Then restart your terminal to effect the changes.
+
+
+https://stackoverflow.com/questions/64359564/error-java-home-is-not-set-and-no-java-command-could-be-found-in-your-flutter/64374658
