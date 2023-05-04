@@ -11,4 +11,9 @@ You need to have android studio on your PC to work.
 Then restart your terminal to effect the changes.
 
 
+
+USE: ./gradlew signingReport
+For Macbook
+
+
 https://stackoverflow.com/questions/64359564/error-java-home-is-not-set-and-no-java-command-could-be-found-in-your-flutter/64374658
